@@ -2,24 +2,39 @@
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 👋 About Me
+
 🔭 Currently Working On: A clone of JSON Crack
+
 🌱 Currently Learning: Advanced algorithms and data structures
+
 👯 Looking to Collaborate On: Open-source Python 2 projects
+
 🤝 Need Help With: Python 3 migration and optimization
 
+
 🛠️ My Work
+
 👨‍💻 Projects Portfolio: calochop-dev.vercel.app
+
 📝 Blog & Articles: calochop-dev.vercel.app/blog
 
+
 💬 Ask Me About
+
 React, Frontend Development, and JSON visualization
 
+
 📬 How to Reach Me
+
 📧 Email: rcasascarl@gmail.com
+
 📄 My Experience: Available upon request
 
+
 ⚡ Fun Fact
+
 I believe debugging is like solving a mystery—except you are both the detective and the culprit 😅
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
