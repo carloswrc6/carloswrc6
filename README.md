@@ -5,11 +5,11 @@
 
 🔭 Currently Working On: A clone of JSON Crack
 
-🌱 Currently Learning: Advanced algorithms and data structures
+🌱 Currently Learning: DevOps tools and practices (Docker, CI/CD, Kubernetes)
 
-👯 Looking to Collaborate On: Open-source Python 2 projects
+<!-- 👯 Looking to Collaborate On: Open-source Python 2 projects
 
-🤝 Need Help With: Python 3 migration and optimization
+ 🤝 Need Help With: Python 3 migration and optimization -->
 
 
 🛠️ My Work
