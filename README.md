@@ -29,10 +29,6 @@ React, Frontend Development, and JSON visualization
 📄 My Experience: Available upon request
 
 
-⚡ Fun Fact
-
-I believe debugging is like solving a mystery—except you are both the detective and the culprit 😅
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
