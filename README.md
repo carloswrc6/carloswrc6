@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Rivas</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-👋 About Me
+# 👋 About Me
 
 🔭 Currently Working On: A clone of JSON Crack
 
@@ -12,14 +12,10 @@
  🤝 Need Help With: Python 3 migration and optimization -->
 
 
-🛠️ My Work
+# 🛠️ My Work
 
 👨‍💻 Projects Portfolio: [https://calochop-dev.vercel.app/](https://calochop-dev.vercel.app/)
 
-
-💬 Ask Me About
-
-React, Frontend Development, and JSON visualization
 
 # 💬 Ask Me About
 
@@ -33,11 +29,11 @@ React, Frontend Development, and JSON visualization
 - **Automatización:** Dashboards, sincronización de usuarios, y APIs para validación facial
 
 
-📬 How to Reach Me
+# 📬 How to Reach Me
 
 📧 Email: rcasascarl@gmail.com
 
-📄 My Experience: Available upon request
+# 📄 My Experience: Available upon request
 
 
 
