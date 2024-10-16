@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Carlos Rivas</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on [Clon Json Crack](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
+👋 About Me
+🔭 Currently Working On: A clone of JSON Crack
+🌱 Currently Learning: Advanced algorithms and data structures
+👯 Looking to Collaborate On: Open-source Python 2 projects
+🤝 Need Help With: Python 3 migration and optimization
 
-- 🌱 I’m currently learning **algo**
+🛠️ My Work
+👨‍💻 Projects Portfolio: calochop-dev.vercel.app
+📝 Blog & Articles: calochop-dev.vercel.app/blog
 
-- 👯 I’m looking to collaborate on [Other Py 2](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
+💬 Ask Me About
+React, Frontend Development, and JSON visualization
 
-- 🤝 I’m looking for help with [Other Py 3](https://www.youtube.com/watch?v=eHaXw8Bd_ms)
+📬 How to Reach Me
+📧 Email: rcasascarl@gmail.com
+📄 My Experience: Available upon request
 
-- 👨‍💻 All of my projects are available at [https://calochop-dev.vercel.app/](https://calochop-dev.vercel.app/)
-
-- 📝 I regularly write articles on [https://calochop-dev.vercel.app/](https://calochop-dev.vercel.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **rcasascarl@gmail.com**
-
-- 📄 Know about my experiences [aaa](aaa)
-
-- ⚡ Fun fact **dddd**
+⚡ Fun Fact
+I believe debugging is like solving a mystery—except you are both the detective and the culprit 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
