@@ -21,6 +21,17 @@
 
 React, Frontend Development, and JSON visualization
 
+# 💬 Ask Me About
+
+- **Frontend & Backend:** React, Vue, Django, Laravel, Lumen
+- **DevOps:** Administración de servidores Linux (Debian, CentOS)
+- **Cloud:** AWS (S3, DynamoDB)
+- **APIs:** REST, RESTful, GraphQL
+- **Bases de Datos:** PostgreSQL, MySQL, DynamoDB, SQL Server
+- **Gestión de proyectos:** Liderazgo, optimización de recursos, y desarrollo ágil
+- **Visualización de datos:** ApexCharts, HighCharts, JasperReports
+- **Automatización:** Dashboards, sincronización de usuarios, y APIs para validación facial
+
 
 📬 How to Reach Me
 
