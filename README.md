@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Rivas</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center"> ➡️ A Full Stack Developer from Peru, passionate about building efficient solutions and mastering cloud technologies.</h3>
 
 # 👋 About Me
 
