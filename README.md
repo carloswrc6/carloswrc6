@@ -14,7 +14,7 @@
 
 # 🛠️ My Work
 
-👨‍💻 Projects Portfolio: [https://calochop-dev.vercel.app/](https://calochop-dev.vercel.app/es)
+👨‍💻 Projects Portfolio: [https://calochop-dev.vercel.app/es](https://calochop-dev.vercel.app/es)
 
 
 # 💬 Ask Me About
